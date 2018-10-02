@@ -4,12 +4,12 @@
 #
 Summary:	A JSON implementation in C
 Name:		libfastjson
-Version:	0.99.4
+Version:	0.99.8
 Release:	1
 License:	MIT
 Group:		Libraries
 Source0:	http://download.rsyslog.com/libfastjson/%{name}-%{version}.tar.gz
-# Source0-md5:	18ee28081e87673e20d5d4412a7ca5d4
+# Source0-md5:	fe7b4eae1bf40499f6f92b51d7e5899e
 URL:		https://github.com/rsyslog/libfastjson
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
